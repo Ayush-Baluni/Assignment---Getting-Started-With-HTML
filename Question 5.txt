@@ -3,7 +3,8 @@ What is the DOCTYPE Declaration in HTML?
 
 
 Ans.
-DOCTYPE is a declaration that is not an HTML tag. It is data for the browser so that it knows what document type to expect and what version of HTML the code is written in.
+DOCTYPE is a declaration that is not an HTML tag. It is data for the browser so that it knows what document type to expect and what version of HTML 
+the code is written in.
 All HTML documents need to start with a <!DOCTYPE> declaration. The declaration varies depending on what version of HTML the document is written in.
 
 In HTML 5, the declaration syntax is:
