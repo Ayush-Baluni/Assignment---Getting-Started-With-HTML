@@ -1,0 +1,53 @@
+Q. 
+Write a short note on Tag and element with an example?
+
+
+Ans.
+
+1. Tags in HTML:
+ 
+-> Tags are fundamental components of HTML that establish the structure and content of a webpage. They are surrounded by angle brackets (< >). Typically, HTML tags appear in pairs: 
+   an opening tag marks the beginning of an HTML element, and a closing tag denotes its end. For example, the <p> tag is used to create a paragraph, with the corresponding closing 
+   tag being </p>.
+
+   There are two types of tags -
+
+   a. Pair tags:
+   -> These tags come in pairs, with an opening tag and a closing tag. The opening tag starts the element, and the closing tag ends it. The content is placed between these tags. 
+      Forexample:
+
+      'paragraph'(<p> & </p>), 'heading'(<h1> & </h1>), 'table'(<table> & </table>), 'ordered list'(<ol> & </ol>).
+
+   b. Self closing tags -
+   -> These tags do not have a closing tag. They are used to insert content or elements where there is no need for additional content between start and end tags. For example:
+
+      I. 'image" (<img>) - Embeds an image into the page. Requires the 'src' attribute to specify the image source.
+      II. 'line break' (<br>) - Inserts a line break and starts a new line in the webpage
+      III. 'horizontal line' (<hr>) - Inserts a horizontal line in the webpage
+
+
+1. Elements in HTML:
+
+-> An HTML element includes an opening tag, the content, and a closing tag. It encompasses all the content and any nested elements between the opening and closing tags. Elements can 
+   hold text, attributes, or other elements and define how the content is presented or organized. Basically, an element is everything from the opening tag to the closing tag.
+
+   There are two types of elements:
+
+   a. Block-level elements:
+   -> Block-level elements occupy the full width available and start on a new line. They create larger structures or sections within a webpage. These elements can contain other block-
+      level elements and inline elements. For example:
+
+      I. <h1>Main Heading</h1>
+      II. <p>This is a paragraph.</p>
+      III.  <ul>
+                <li>Item 1</li>
+                <li>Item 2</li>
+            </ul>
+
+   b. Inline elements:
+   -> Inline elements occupy only as much width as necessary and do not start on a new line. They are used to style or format parts of a line of text. Inline elements cannot contain 
+      block-level elements but can include other inline elements. For example:
+
+      I. <a href="https://pwskills.com">Visit Example</a>
+      II. <strong>Important Text</strong>
+      III. <span class="ABC">Hello, I am Ayush</span> 

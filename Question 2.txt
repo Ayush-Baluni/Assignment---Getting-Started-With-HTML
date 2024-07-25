@@ -1,0 +1,31 @@
+Q. 
+Explain the purpose of comments in HTML and provide an example of how to use comments in an HTML document.
+
+
+Ans.
+Comments are used to add notes between the code for developers. They offer explanations, reminders, or instructions that do not affects the code in any way. These comments 
+facilitate collaboration and improve code readability by providing insights into the code’s structure and purpose. They can also be used to simply document when was a code/
+program made or by who. 
+
+Comments are very important for developers. Comments improve code readability, aid in collaboration, and enable temporary disabling of code segments. These comments serve as 
+invisible notes within the code. HTML comments start with '<!--' and end with '-->'. Comments can span to multiple lines and the syntax remains the same. 
+
+Examples:
+    
+    1. Single line comment:
+    
+        <!-- This is a comment -->
+
+
+    2. Multi line comments:
+
+        <!-- This program shows a table that contains many ordered lists with style formatting done on them.
+          Each ordered list has further nested unordered lists in them. These unordered lists will serve as
+          the topics that will be covered -->
+
+        
+        <!-- 
+            Program made by -
+            Ayush Baluni
+            BCA
+        -->
